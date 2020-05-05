@@ -41,8 +41,8 @@ sudo ./start.sh
 sudo ./stop.sh
 ```
 
-## Contributers
+## Contributors
 
-- @khalilst
-- @mbizhani
-- @arezaiezr
+- [@khalilst](https://github.com/khalilst)
+- [@mbizhani](https://github.com/mbizhani)
+- [@arezaiezr](https://github.com/arezaiezr)
