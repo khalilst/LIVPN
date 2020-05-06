@@ -6,7 +6,13 @@ This project inspired from [Dockage](https://github.com/mbizhani/Dockage).
 
 ## Installation
 
-Run the following commands to install required packages:
+First clone the project:
+```
+git clone https://github.com/khalilst/LIVPN.git
+cd LIVPN
+```
+
+Then run the following commands to install required packages:
 
 ```
 sudo apt update
@@ -21,7 +27,7 @@ Or simply run this one:
 sudo ./install.sh
 ```
 
-Then make a copy from `.env.example` and put your credential in your `.env` file:
+Inside the project directtory, make a copy from `.env.example` and put your credential in your `.env` file:
 
 ```
 cp .env.example .env
